@@ -1,4 +1,4 @@
-print("Lista zakupów".center(50, '='))
+print("Lista zakupów".center(50, '_'))
 print()
 
 shopping_list = ["chleb", "bułki", "pączek", "marchew", "seler", "rukola"]
@@ -15,5 +15,5 @@ for k, v in shopping.items():
 goods = f"W sumie kupuję {lenght} produktów"
 print(goods)
 print()
-print("Koniec zakupów".center(50, '='))
+print("Koniec zakupów".center(50, '_'))
 
