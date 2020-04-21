@@ -14,6 +14,7 @@ for k, v in shopping.items():
     print("Idę do " + k.capitalize() + " i kupuję tam :" + str(v) + " ")
 goods = f"W sumie kupuję {lenght} produktów"
 print(goods)
-print()
-print("Koniec zakupów".center(50, '_'))
+
+
+
 
